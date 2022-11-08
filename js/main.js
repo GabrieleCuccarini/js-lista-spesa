@@ -10,6 +10,7 @@ let listaDoc = document.getElementById("lista-spesa")
 console.log(listaSpesa);
 
 let i = 0
+let prodottoSingolo
 
 while (i < listaSpesa.length){
     prodottoSingolo = (listaSpesa[i])
